@@ -25,7 +25,7 @@ Install dependencies:
 Run the application:
 
 
-   `python BTC_HEX-2-key.py`
+   `python btc_hex2key.py`
 
 ## Usage
 
