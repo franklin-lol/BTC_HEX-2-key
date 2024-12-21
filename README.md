@@ -39,6 +39,10 @@ Current BTC balance.
 Screenshots
 Main Interface
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/2d0e4d44-e83d-441c-91f6-0c907599ff8d)
+
 ## Requirements
 Python 3.8 or higher
 Active internet connection for balance retrieval
