@@ -13,8 +13,9 @@ BTC Key Info Viewer is a Python-based GUI tool that allows users to analyze Bitc
 
 Clone this repository:
    
-   `git clone https://github.com/franklin-lol/BTC_HEX-2-key.git
-   cd BTC_HEX-2-key`
+   `git clone https://github.com/franklin-lol/BTC_HEX-2-key.git`
+   
+   `cd BTC_HEX-2-key`
 
 Install dependencies:
 
